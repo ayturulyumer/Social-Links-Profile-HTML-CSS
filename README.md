@@ -4,7 +4,9 @@
 
 ## Welcome! 👋
 
-# It's a simple static page that I created for this challenge: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+# It's a simple static responsive page that I created for this challenge: https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+
+# Project Link - https://simpleresponsivecard.netlify.app/
 
 
 # Stack used:
